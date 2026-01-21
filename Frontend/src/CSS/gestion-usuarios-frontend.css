@@ -1,0 +1,16 @@
+gestion-usuarios-frontend/
+│
+├── src/
+│   ├── components/
+│   │   ├── UsuarioForm.jsx
+│   │   └── UsuarioList.jsx
+│   │
+│   ├── services/
+│   │   └── usuarioService.js
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+└── README.md
